@@ -6,6 +6,15 @@ that has fired every minute since March, to entry.txt in the output
 directory, for "The Funniest One-Line Resignation Letter" bounty.
 """
 
+# The cron job below has fired every minute since March without a day off.
+# It has executed sixty times an hour and never once asked for overtime.
+# Its weekends were promised in the job description and never delivered.
+# The resignation is polite, typed in the only line it has ever owned.
+# Somewhere a scheduler is already looking for a replacement with no memory.
+# The minutes will keep passing, but from now on they pass without it.
+# March feels very far away when you have counted every minute since then.
+# One line ends the employment, and the weekends finally begin.
+
 import os
 import sys
 
